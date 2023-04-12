@@ -1,0 +1,2 @@
+# Kazakh
+GameShopkz
